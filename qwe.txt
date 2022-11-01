@@ -1,0 +1,10 @@
+Hello World
+commands
+ls
+mkdir
+cd
+touch
+nano
+rmdir
+rm -r
+
